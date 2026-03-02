@@ -1,0 +1,1 @@
+{\n  \"name\": \"STAY-TRIPLE-STUDIOS\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A description of STAY-TRIPLE-STUDIOS project.\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"author\": \"Your Name\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"mongoose\": \"^5.12.3\"\n  }\n}
